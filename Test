@@ -1,0 +1,7 @@
+echo "# RMS-BOX" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git Branch -M main 
+git remote add origin https://github.com/Rizki-Makmur-Sentosa- Kotak/RMS-BOX.git
+ git push -u asal utama
